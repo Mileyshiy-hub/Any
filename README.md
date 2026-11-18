@@ -37,3 +37,5 @@
 ```powershell
 npm install
 npm start
+<img width="311" height="107" alt="image" src="https://github.com/user-attachments/assets/1b054bc5-f11e-4efb-a8d5-4ad93ca6cb01" />
+<img width="473" height="610" alt="image" src="https://github.com/user-attachments/assets/c1cbfcd6-74ed-4725-aeb4-8dab00f990f1" />
